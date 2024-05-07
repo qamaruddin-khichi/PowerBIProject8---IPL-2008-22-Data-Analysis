@@ -13,7 +13,7 @@
 
 ### About
 
-This repository contains the Power BI Project8 - IPL 2008-22 Data Analysis, which provides insights into the Indian Premier League (IPL) cricket matches played between 2008 and 2022.
+This project IPL 2008-22 Data Analysis, which provides insights into the Indian Premier League (IPL) cricket matches played between 2008 and 2022.
 
 ---
 
