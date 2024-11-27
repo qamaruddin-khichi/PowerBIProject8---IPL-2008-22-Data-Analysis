@@ -1,5 +1,7 @@
 # PowerBIProject8 - IPL 2008-22 Data Analysis
 
+Explore the interactive dashboard: [IPL Analysis in Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzUxOTIwMDEtNjk0ZS00OWMxLTkzZTktNDY4ZDQ1ZWFkNjY3IiwidCI6IjU0MTM4MTA5LTNiOGEtNDMzNy1hYzk2LTY4ZDE4ODM0NmNhOCIsImMiOjl9)
+
 ### Table of Contents
 
 - [About](#about)
